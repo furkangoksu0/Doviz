@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\Doviz\Doviz\bin\Debug\net8.0\Doviz.exe
+C:\Users\furka\source\repos\Doviz\Doviz\bin\Debug\net8.0\Doviz.deps.json
+C:\Users\furka\source\repos\Doviz\Doviz\bin\Debug\net8.0\Doviz.runtimeconfig.json
+C:\Users\furka\source\repos\Doviz\Doviz\bin\Debug\net8.0\Doviz.dll
+C:\Users\furka\source\repos\Doviz\Doviz\bin\Debug\net8.0\Doviz.pdb
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.AssemblyInfo.cs
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.dll
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\refint\Doviz.dll
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.pdb
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\Doviz.genruntimeconfig.cache
+C:\Users\furka\source\repos\Doviz\Doviz\obj\Debug\net8.0\ref\Doviz.dll
